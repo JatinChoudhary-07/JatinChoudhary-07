@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**JatinChoudhary-07/JatinChoudhary-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Jatin! 👋
 
-Here are some ideas to get you started:
+I'm currently on a journey to master Python, from the fundamentals to more advanced concepts. This repository serves as a log of my progress, projects, and notes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 What I'm Learning
+
+Here's a list of topics I'm currently focused on or have already covered.
+
+### Python Fundamentals (Basics)
+- [x] Variables and Data Types
+- [x] Operators
+- [x] Control Flow (if/else statements, loops)
+- [x] Functions
+- [x] Data Structures (Lists, Tuples, Dictionaries)
+- [x] File I/O (Reading and Writing Files)
+
+### Advanced Python
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Decorators
+- [ ] Generators
+- [ ] Concurrency and Parallelism
+- [ ] Working with APIs
