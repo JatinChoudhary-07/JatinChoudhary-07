@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jatin+%F0%9F%91%8B;CSE+%7C+Blockchain+%7C+SATI+Vidisha;DSA+grinder+%7C+Building+in+public" alt="Typing SVG" />
+</div>
+
+
 # Jatin Choudhary
 
 > CSE (Blockchain) · SATI Vidisha · Indore, India
