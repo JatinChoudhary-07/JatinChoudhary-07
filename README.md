@@ -1,65 +1,75 @@
- 
+# Jatin Choudhary
 
-# Hi there, I'm Jatin! 👋
+> CSE (Blockchain) · SATI Vidisha · Indore, India
 
-I'm passionate about **mastering web development**—from writing robust backend logic to crafting engaging user interfaces. This repository is my progress journal—a collection of learning notes, project logs, and resource links.
-
-***
-
-## 🌱 What I'm Learning
-
-Here’s a list of topics I’m actively learning or have already covered:
-
-### Web Development & Programming
-
-**Python Programming**
-- Variables and Data Types
-- Operators
-- Control Flow (if/else statements, loops)
-- Functions
-- Data Structures (Lists, Tuples, Dictionaries)
-- File I/O (Reading and Writing Files)
-- Object-Oriented Programming (OOP)
-- Decorators
-- Generators
-- Concurrency and Parallelism
-- Working with APIs
-
-**Other Languages & Tools**
-- **C (Basics):**
-  - Data types & variables
-  - Control structures (if, loops)
-  - Functions
-  - Arrays & pointers (overview)
-- **Java (Basics):**
-  - Variables & data types
-  - Classes, objects, and methods
-  - Basic OOP principles (inheritance, encapsulation)
-- **JavaScript (for Web Development):**
-  - Syntax and variables
-  - DOM manipulation basics
-  - Introduction to HTML/CSS integration
-
-***
-
-## 🚀 Current Projects
-
-I'm currently working on projects related to **web development**, where I apply what I'm learning to build real-world applications and interactive websites. As soon as I complete my projects, they will be displayed here on my GitHub profile!
-
-***
-
-## 🚩 Goals and Next Steps
-
-- Deepen advanced Python (focus on OOP & APIs)
-- Build full-stack web projects (JavaScript, Python)
-- Explore modern JavaScript frameworks (React, Vue, etc.)
-- Strengthen fundamentals in C and Java
-- Document projects and share learning resources
-
-***
-
-## 📖 My Learning Philosophy
-
-Documenting every step, sharing what I learn, and building real-world projects is at the heart of my journey towards becoming a skilled web developer. Stay tuned for regular updates!
+Building strong DSA foundations in C++. Active on LeetCode and the hackathon circuit. Blockchain specialization with a growing interest in backend engineering, cloud, and open source.
 
 ---
+
+## Tech Stack
+
+`C` `C++` `Python` `Java` `Git` `Blockchain`
+
+---
+
+## Connect
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-JatinChoudhary--07-orange?style=flat-square)](https://leetcode.com/u/JatinChoudhary-07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jatin--choudhary-blue?style=flat-square)](https://linkedin.com/in/jatin-choudhary-390336378)
+[![GitHub](https://img.shields.io/badge/GitHub-JatinChoudhary--07-black?style=flat-square)](https://github.com/JatinChoudhary-07)
+
+---
+
+## LeetCode — [JatinChoudhary-07](https://leetcode.com/u/JatinChoudhary-07/)
+
+| Stat | Value |
+|------|-------|
+| Problems Solved | 184 |
+| Contest Rating | 1528 |
+| Max Streak | 59 days |
+| Submissions (1yr) | 452 |
+| Active Days | 91 |
+
+**Easy** 60  ·  **Medium** 106  ·  **Hard** 18
+
+**Top problem tags**
+
+`Array x101` `String x45` `Two Pointers x31` `Binary Search x28` `Hash Table x27` `Matrix x26` `Math x26` `Sorting x20` `DP x17` `Backtracking x12` `Linked List x16` `Stack x14`
+
+---
+
+## Currently Learning
+
+- Trees, AVL, Graphs
+- Dynamic Programming · Backtracking · Divide and Conquer
+- Java and OOP
+- Spring Boot
+- Linux internals
+- Blockchain fundamentals
+
+---
+
+## 2026 Goals
+
+- Get sharper at problem solving
+- Java → Spring Boot → Docker
+- Cloud development (AWS fundamentals)
+- 50+ open source contributions
+- Solidity and smart contracts
+- System design basics
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [CORE](https://github.com/JatinChoudhary-07) | Campus resource portal |
+| [75Sync Pro](https://github.com/JatinChoudhary-07) | Attendance tracker |
+| [MediSafe](https://github.com/JatinChoudhary-07) | Medicine expiry tracker |
+| [TaskWise](https://github.com/JatinChoudhary-07) | Hackathon management tool |
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinChoudhary-07&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinChoudhary-07&layout=compact&theme=dark&hide_border=true)
