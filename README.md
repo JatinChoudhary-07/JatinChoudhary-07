@@ -1,7 +1,8 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jatin+%F0%9F%91%8B;CSE+%7C+Blockchain+%7C+SATI+Vidisha;DSA+grinder+%7C+Building+in+public" alt="Typing SVG" />
-</div>
 
+
+
+
+---
 
 # Jatin Choudhary
 
@@ -75,5 +76,9 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 
 ---
 
+## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinChoudhary-07&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinChoudhary-07&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JatinChoudhary-07&theme=dark&hide_border=true)
