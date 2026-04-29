@@ -38,10 +38,6 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 
 **Easy** 61  ·  **Medium** 109  ·  **Hard** 18
 
-**Top problem tags**
-
-`Array x101` `String x45` `Two Pointers x31` `Binary Search x28` `Hash Table x27` `Matrix x26` `Math x26` `Sorting x20` `DP x17` `Backtracking x12` `Linked List x16` `Stack x14`
-
 ---
 
 ## Currently Learning
@@ -50,7 +46,7 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 - Dynamic Programming · Backtracking · Divide and Conquer
 - Java and OOP
 - Spring Boot
-- Linux internals
+- Frontend Development basics
 - Blockchain fundamentals
 
 ---
