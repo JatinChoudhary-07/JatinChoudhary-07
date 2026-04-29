@@ -30,13 +30,13 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 
 | Stat | Value |
 |------|-------|
-| Problems Solved | 184 |
+| Problems Solved | 188 |
 | Contest Rating | 1528 |
-| Max Streak | 59 days |
-| Submissions (1yr) | 452 |
-| Active Days | 91 |
+| Max Streak | 61 days |
+| Submissions (1yr) | 472 |
+| Active Days | 93 |
 
-**Easy** 60  ·  **Medium** 106  ·  **Hard** 18
+**Easy** 61  ·  **Medium** 109  ·  **Hard** 18
 
 **Top problem tags**
 
