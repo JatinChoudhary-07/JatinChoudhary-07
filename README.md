@@ -14,7 +14,7 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 
 ## Tech Stack
 
-`C` `C++` `Python` `Java` `Git` `Blockchain`
+`C` `C++` `Python` `Java` `Git` `HTML`
 
 ---
 
