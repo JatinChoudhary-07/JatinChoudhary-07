@@ -36,7 +36,7 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 | Submissions (1yr) | 483 |
 | Active Days | 94 |
 
-**Easy** 61  ·  **Medium** 109  ·  **Hard** 18
+**Easy** 62  ·  **Medium** 111  ·  **Hard** 19
 
 ---
 
