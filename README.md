@@ -69,6 +69,7 @@ Building strong DSA foundations in C++. Active on LeetCode and the hackathon cir
 | CORE - Campus Operations and Resource Engine | Centralized campus portal for operations and resource management | [repo](https://github.com/JatinChoudhary-07/CORE---Campus-Operations-and-Resource-Engine) · [live](https://aegis-protocol-bd795.web.app/) |
 | CodeFluent | Personal DSA progress tracker - pulls LeetCode profile data via API and analyses it | [repo](https://github.com/JatinChoudhary-07/CodeFluent) |
 | TaskWise | Hackathon management tool for tracking tasks and team workflow | [repo](https://github.com/JatinChoudhary-07/TaskWise) · [live](https://jatinchoudhary-07.github.io/TaskWise/) |
+| ExpenseTracker-Java | Console based Java expense tracker using OOP principles, ArrayList, modular architecture, and menu driven CRUD operations | [repo](YOUR_LINK) |
 
 ---
 
