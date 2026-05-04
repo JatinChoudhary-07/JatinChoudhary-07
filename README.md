@@ -6,7 +6,7 @@
 
 # Jatin Choudhary
 
-> CSE (Blockchain) · SATI Vidisha · Indore, India
+> CSE (Blockchain) · Indore, India
 
 Building strong DSA foundations in C++. Active on LeetCode and the hackathon circuit. Blockchain specialization with a growing interest in backend engineering, cloud, and open source.
 
