@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swing-Java_GUI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swing-Java_GUI-0d1117?style=for-the-badge"/>
 </p>
 
 ---
@@ -37,11 +37,11 @@
 </a>
 
 <a href="https://linkedin.com/in/jatin-choudhary-390336378">
-  <img src="https://img.shields.io/badge/LinkedIn-Jatin_Choudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Jatin_Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/JatinChoudhary-07">
-  <img src="https://img.shields.io/badge/GitHub-JatinChoudhary--07-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-JatinChoudhary--07-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -77,7 +77,7 @@ AI assisted campus operations and resource management platform with centralized 
 </a>
 
 <a href="https://aegis-protocol-bd795.web.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0969da?style=for-the-badge"/>
 </a>
 
 </td>
@@ -95,7 +95,7 @@ Realtime attendance intelligence system with Firebase Authentication, Firestore 
 </a>
 
 <a href="https://attendance-manager-d03e1.web.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0969da?style=for-the-badge"/>
 </a>
 
 </td>
@@ -129,7 +129,7 @@ AI assisted workflow and hackathon task management platform for collaboration an
 </a>
 
 <a href="https://jatinchoudhary-07.github.io/TaskWise/">
-  <img src="https://img.shields.io/badge/Live_Demo-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0969da?style=for-the-badge"/>
 </a>
 
 </td>
@@ -181,11 +181,11 @@ Desktop based Java Swing application featuring persistent storage and issue retu
 <p align="center">
 
 <a href="https://github.com/JatinChoudhary-07/DSA_LC">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=DSA_LC&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=DSA_LC&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/JatinChoudhary-07/DSA_POTDs">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=DSA_POTDs&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=DSA_POTDs&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
@@ -193,7 +193,7 @@ Desktop based Java Swing application featuring persistent storage and issue retu
 <p align="center">
 
 <a href="https://github.com/JatinChoudhary-07/LC_Contests">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=LC_Contests&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JatinChoudhary-07&repo=LC_Contests&theme=github_dark&hide_border=true"/>
 </a>
 
 </p>
@@ -204,14 +204,14 @@ Desktop based Java Swing application featuring persistent storage and issue retu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JatinChoudhary-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JatinChoudhary-07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JatinChoudhary-07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JatinChoudhary-07&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JatinChoudhary-07&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=JatinChoudhary-07&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -219,7 +219,7 @@ Desktop based Java Swing application featuring persistent storage and issue retu
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinChoudhary-07&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JatinChoudhary-07&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
